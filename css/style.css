@@ -116,6 +116,7 @@ ol.breadcrumb {
         height: 100px;
         
     }
+    
 }
 @media only screen and (max-width: 426px){
     nav .liee {
@@ -133,4 +134,15 @@ ol.breadcrumb {
         height: auto;
 
 }
+ul .dropdown-menu
+    {
+        background-color: #f47629 ;
+        border: 0;
+    }
+    ul .dropdown-menu li a {
+        color: #000;
+    }
+    ul .dropdown-menu li a.heee {
+        border-top: 0;
+    }
 }
